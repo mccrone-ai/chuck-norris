@@ -1,4 +1,4 @@
-let baseUrl = "https://api.chucknorris.io/jokes/random"
+let baseUrl = "https://api.chucknorris.io/jokes/random?firstName=Murray&lastName=McDonald"
 let displayJoke = document.querySelector(".display-facts");
 
 async function getChuckle(){

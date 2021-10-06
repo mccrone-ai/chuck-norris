@@ -1,4 +1,4 @@
-let baseUrl = "http://api.icndb.com/jokes/random?firstName=John&lastName=Doe"
+let baseUrl = "http://api.icndb.com/jokes/random?firstName=Murray&lastName=McDonald"
 let displayJoke = document.querySelector(".display-facts");
 
 async function getChuckle(){
